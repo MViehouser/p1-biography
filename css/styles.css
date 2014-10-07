@@ -1,11 +1,15 @@
 /* Your Website Styles */
 h1	{
-	color: #3F7858
+	color: #3F7858; 
 	font-family: 'Lobster', cursive;
+background: red;
+width: 300px;
+padding: 10px;
+border: 10px solid black;
 }
 
 body	{
-	background: url(../img/bg.png);
+	background: url("../img/bg.png");
 }
 
 /* Show Grid */
